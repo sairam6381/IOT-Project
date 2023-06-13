@@ -43,8 +43,3 @@ Contributions to this project are welcome! If you would like to contribute, plea
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-- [Name of any external libraries or resources used]
-
-Feel free to reach out if you have any questions or feedback. Happy patrolling!
